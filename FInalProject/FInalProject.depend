@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733079310 source:d:\codes\finalproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"BST.h"
+
+1733078980 d:\codes\finalproject\bst.h
+	"Book.h"
+
+1733073058 d:\codes\finalproject\book.h
+
